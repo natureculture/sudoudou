@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e xiaosuchao --n quickstartFunctions --r --project "C:\Users\苏超\WeChatProjects\sudoudou" && "C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e xiaosu --n quickstartFunctions --r --project "C:\Users\苏超\WeChatProjects\sudoudou" --report
